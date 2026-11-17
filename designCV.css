@@ -1,0 +1,24 @@
+header{font-family: verdana; text-align: center; color: rgb(46, 76, 182); border:5px solid rgb(251, 255, 0);}
+body {font-family: verdana; background-color: rgb(183, 216, 234);}
+h3{font-family: verdana; 
+    text-align: center;  
+    text-decoration: underline; 
+    text-decoration-color: #3498db; 
+    text-decoration-thickness: 3px;
+    text-underline-offset: 5px; 
+    color: rgb(3, 98, 165)}
+h4{font-family: verdana; font-size: 15px;}
+.nom_prenom {margin-top: -60px; margin-left: 200px;}
+.mon-bloc {margin-bottom: 50px;}
+.mon-bloc2 {margin-bottom: 100px;}
+.mon-blocfin {margin-bottom: 200px;}
+.centrer-gif {display: block; margin-left: auto; margin-right: auto; width: 150px;}
+.sous_ligner1{text-decoration: underline; 
+    text-decoration-color: #95db34; 
+    text-decoration-thickness: 3px;
+    text-underline-offset: 5px;}
+.sous_ligner2{text-decoration: underline; 
+    text-decoration-color: #e3da24; 
+    text-decoration-thickness: 3px;
+    text-underline-offset: 5px;}
+.photo_profil{border-radius: 100px;}
